@@ -1,0 +1,9 @@
+{
+  "mcp": {
+    "obsidian": {
+      "type": "local",
+      "command": ["npx", "@bitbonsai/mcpvault", "C:\\Users\\User\\Documents\\secondbrain"],
+      "enabled": true
+    }
+  }
+}
